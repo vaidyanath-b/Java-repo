@@ -1,4 +1,3 @@
-import javax.management.modelmbean.ModelMBean;
 
 public class GuitarSpec {
 
